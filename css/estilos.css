@@ -37,3 +37,15 @@ footer img{
 footer span{
     vertical-align: super;
 }
+li span{
+    font-style: italic ;
+}
+dl{
+    padding-left: 30px;
+    margin-top: 1em;
+    margin-bottom: 1em;
+
+}
+li{
+    padding: 5px;
+}
